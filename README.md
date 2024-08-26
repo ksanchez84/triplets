@@ -21,7 +21,7 @@ Information about the datasets used in the project. Include links to download th
 
 | Dataset              | Download Link                                        |
 |----------------------| -----------------------------------------------------|
-| CholecT50            | [Enlace de descarga](https://cholectriplet2022.grand-challenge.org/data/)   |
+| CholecT50            | [Enlace de descarga](https://cholectriplet2022.grand-challenge.org/data)   |
 | Cholec80             | [Enlace de descarga](https://github.com/CAMMA-public/TF-Cholec80#data)   |
 
 
